@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Simple student &amp; Teacher OOP App</string>
+    <string name="title_oop_demo">Student &amp; Teacher OOP App</string>
+    <string name="hint_enter_name">Enter Name</string>
+    <string name="hint_enter_marks">Enter Marks (Students only)</string>
+    <string name="btn_student">Student</string>
+    <string name="btn_teacher">Teacher</string>
+    <string name="output_placeholder">Output will appear here</string>
+    <string name="error_enter_name">Please enter a name.</string>
+</resources>
